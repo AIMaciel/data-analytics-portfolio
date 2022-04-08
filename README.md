@@ -10,3 +10,4 @@ This repository contains projects and visualizations from the Data Science & Ana
 ## Visual Communications
 
 etc…
+[yelp_labeled.txt](https://github.com/AIMaciel/data-analytics-portfolio/files/8448321/yelp_labeled.txt)
